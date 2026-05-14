@@ -1,0 +1,451 @@
+[
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "vase",
+      "laptop",
+      "cup",
+      "bowl",
+      "potted plant",
+      "book"
+    ],
+    "question": "laptop nerede",
+    "timestamp": "2026-05-10 15:17:25.177541"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "laptop",
+      "potted plant",
+      "vase",
+      "bowl",
+      "cup",
+      "book"
+    ],
+    "question": "laptop nerede",
+    "timestamp": "2026-05-10 15:42:00.478024"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "laptop",
+      "potted plant",
+      "cup",
+      "bowl"
+    ],
+    "question": "laptop nerede",
+    "timestamp": "2026-05-10 15:59:45.232613"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "potted plant",
+      "cup",
+      "laptop",
+      "bowl"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "siyah"
+    ],
+    "question": "masa ne renk",
+    "timestamp": "2026-05-10 17:24:10.541801"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "cup",
+      "bowl",
+      "potted plant",
+      "laptop"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "siyah"
+    ],
+    "question": "laptop nerede",
+    "timestamp": "2026-05-10 17:48:11.738701"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "cup",
+      "bowl",
+      "potted plant",
+      "laptop"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "siyah"
+    ],
+    "question": "laptop nerede ",
+    "timestamp": "2026-05-10 17:48:32.417693"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "cup",
+      "bowl",
+      "potted plant",
+      "laptop"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "siyah"
+    ],
+    "question": "defter nerede",
+    "timestamp": "2026-05-10 17:48:53.352574"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "cup",
+      "laptop"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "siyah"
+    ],
+    "question": "defter nerede",
+    "timestamp": "2026-05-10 17:49:05.124909"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "laptop",
+      "cup",
+      "book",
+      "keyboard",
+      "potted plant",
+      "vase",
+      "bowl"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "siyah"
+    ],
+    "question": "defter nerede",
+    "timestamp": "2026-05-10 17:49:11.938665"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "laptop",
+      "cup",
+      "book",
+      "keyboard",
+      "potted plant",
+      "vase",
+      "bowl"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "siyah"
+    ],
+    "question": "cup nerede",
+    "timestamp": "2026-05-10 17:49:19.361203"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "cup",
+      "potted plant",
+      "laptop"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "siyah"
+    ],
+    "question": "cup nerede",
+    "timestamp": "2026-05-10 17:49:23.953672"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "laptop",
+      "potted plant",
+      "bowl",
+      "cup"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "siyah"
+    ],
+    "question": "laptop nerede",
+    "timestamp": "2026-05-10 17:53:24.930046"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "laptop",
+      "potted plant",
+      "bowl",
+      "cup"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "siyah"
+    ],
+    "question": "kaç tane bitki var",
+    "timestamp": "2026-05-10 17:53:58.861821"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "laptop",
+      "potted plant",
+      "bowl",
+      "cup"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "siyah"
+    ],
+    "question": "kaç tane bitki var",
+    "timestamp": "2026-05-10 17:54:50.501665"
+  },
+  {
+    "image": "camera-input-2026-05-12T06_34_43.761Z.jpg",
+    "objects": [
+      "person"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "kırmızı",
+      "mavi"
+    ],
+    "question": "mouse hangi renk",
+    "timestamp": "2026-05-12 09:34:52.396455"
+  },
+  {
+    "image": "camera-input-2026-05-12T06_34_43.761Z.jpg",
+    "objects": [
+      "person"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "kırmızı",
+      "mavi"
+    ],
+    "question": "mouse hangi renk",
+    "timestamp": "2026-05-12 09:34:52.765418"
+  },
+  {
+    "image": "camera-input-2026-05-12T07_18_13.931Z.jpg",
+    "objects": [
+      "remote",
+      "person",
+      "traffic light"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "kırmızı"
+    ],
+    "ocr_texts": [],
+    "question": "hangi renk",
+    "ai_answer": " Personla ilgili bir şey olarak, sadece 'beyaz' renkli nesne bulunmaktadır. Bu durumda, person, remote ve traffic light'nin solunda olan \"beyaz\" renkli remote aracı içindeki resimdeki renkleri belirlemek istiyor.",
+    "timestamp": "2026-05-12 10:18:38.104396"
+  },
+  {
+    "image": "camera-input-2026-05-12T07_18_13.931Z.jpg",
+    "objects": [
+      "remote",
+      "person",
+      "traffic light"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "kırmızı"
+    ],
+    "ocr_texts": [],
+    "question": "kaç tane kitap var",
+    "ai_answer": " Doğru değil. Aşağıdaki görselde kayan bir oyun kontrolü veya enjekte bulunan bir cihaz gibi nesne yerine öncelikle \"kitap\" dahil olmadır. Ancak, nesneler (remote, traffic light) olduğundan emin, şuan kayan bir oyun kontrolü veya enjekte bulunan bir cihaz gibi nesne var. Soruda yanlış olmuştur. ",
+    "timestamp": "2026-05-12 10:19:50.909817"
+  },
+  {
+    "image": "08553ad1cb126e5379e7f974978a93e1.jpg",
+    "objects": [
+      "cup",
+      "book"
+    ],
+    "colors": [
+      "gri",
+      "siyah",
+      "beyaz",
+      "mavi"
+    ],
+    "ocr_texts": [],
+    "question": "kaç tane kitap var",
+    "ai_answer": " 1 ",
+    "timestamp": "2026-05-12 10:20:13.240509"
+  },
+  {
+    "image": "08553ad1cb126e5379e7f974978a93e1.jpg",
+    "objects": [
+      "cup",
+      "book"
+    ],
+    "colors": [
+      "gri",
+      "siyah",
+      "beyaz",
+      "mavi"
+    ],
+    "ocr_texts": [],
+    "question": "kitap nerede ",
+    "ai_answer": " Cevap: Kitap, yani buğdayın karşısındaki bir kahve taçasında, açıldı. Bu görseldeki dizi nesnelere yerleşen bir kitap var, ancak onun bir parça olarak bulunmaktadır. Bu durumda, kitap haliyle ortada bir taşarımı ya da kahve taçasının altında yerleşti ve dizi nesneler üzerindeki bir kahve taçası ile birlikte görüldüğünde, bu kitap haliyle değişken bir parça olarak bulunmaktadır. ",
+    "timestamp": "2026-05-12 10:20:42.225878"
+  },
+  {
+    "image": "camera-input-2026-05-12T07_25_43.603Z.jpg",
+    "objects": [],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "kırmızı"
+    ],
+    "ocr_texts": [],
+    "question": "which color",
+    "ai_answer": " Cay %27, gri %40, turuş %14, yeşim %17. ",
+    "timestamp": "2026-05-12 10:26:17.735184"
+  },
+  {
+    "image": "camera-input-2026-05-12T10_44_12.873Z.jpg",
+    "objects": [
+      "person",
+      "remote"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "kırmızı"
+    ],
+    "ocr_texts": [],
+    "question": "hangi renk",
+    "ai_answer": " Beyaz ",
+    "timestamp": "2026-05-12 13:44:32.520298"
+  },
+  {
+    "image": "camera-input-2026-05-12T10_44_12.873Z.jpg",
+    "objects": [
+      "person",
+      "remote"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "kırmızı"
+    ],
+    "ocr_texts": [],
+    "question": "remote hangi renk",
+    "ai_answer": " Remote beyaz. ",
+    "timestamp": "2026-05-12 13:44:45.811667"
+  },
+  {
+    "image": "08553ad1cb126e5379e7f974978a93e1.jpg",
+    "objects": [
+      "book",
+      "cup"
+    ],
+    "colors": [
+      "gri",
+      "siyah",
+      "beyaz",
+      "mavi"
+    ],
+    "ocr_texts": [],
+    "question": "kitap nerede",
+    "ai_answer": " Kitap için toplam 1 defa gözlenir. ",
+    "timestamp": "2026-05-14 08:43:11.528406"
+  },
+  {
+    "image": "camera-input-2026-05-14T05_43_27.759Z.jpg",
+    "objects": [
+      "remote",
+      "person",
+      "cell phone",
+      "traffic light"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "kırmızı"
+    ],
+    "ocr_texts": [],
+    "question": "kitap nerede",
+    "ai_answer": " Çıkartın kendisine bir şey olduğuna doğru olmanla, içinde görünmez. ",
+    "timestamp": "2026-05-14 08:43:40.430515"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "cup",
+      "laptop",
+      "potted plant",
+      "bowl",
+      "book"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "siyah"
+    ],
+    "ocr": [],
+    "question": "kitap nerede",
+    "answer": "Tespit edilen nesneler: cup (orta orta), laptop (orta sol), potted plant (üst orta), potted plant (üst sağ), potted plant (üst sağ).",
+    "ts": "2026-05-14 08:51:01.632460"
+  },
+  {
+    "image": "3ee0b29b2420a4a05a84ea4734af3bf8.jpg",
+    "objects": [
+      "cup",
+      "laptop",
+      "potted plant",
+      "bowl",
+      "book"
+    ],
+    "colors": [
+      "gri",
+      "beyaz",
+      "mavi",
+      "siyah"
+    ],
+    "ocr": [],
+    "question": "where is laptop",
+    "answer": "laptop, görselin orta sol kısmında.",
+    "ts": "2026-05-14 08:51:21.388381"
+  }
+]
